@@ -1,0 +1,24 @@
+marquee{
+    color: rgb(3, 31, 244);
+   
+}
+h1{
+    text-align: center;
+}
+
+.profile{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    text-align: center
+}
+.information{
+    text-align: center;
+    text-decoration: none;
+}
+p{
+    text-align: center;
+}
