@@ -22,3 +22,12 @@ h3{
 p{
     text-align: center;
 }
+summary{
+    text-align: center;
+}
+.my-accounts{
+    justify-content: center;
+    display: flex;
+    font-size:24px;
+    gap: 8px;
+}
